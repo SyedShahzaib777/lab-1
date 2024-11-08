@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from datetime import datetime
 
-# Define the menu items and their prices
+THIS IS THE V2 OF MAIN.
 menu = {
     'Chicken karahi': 350,
     'Chicken tikka': 300,
